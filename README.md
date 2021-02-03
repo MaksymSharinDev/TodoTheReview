@@ -2,22 +2,22 @@
 
 #### ! Work in progrss !
 
-A node.js CLI tool utility made for be a  part of a review process tool-chain
+A node.js CLI tool utility made for being a  part of a review process tool-chain
 
 Last Progress ( FolderPaths, files and their weights metrics extraction)
 ![](./docs/last-progress.gif)
 
 
 ## Overview
-The problem is that we have is a codebase (usually in in hereditance) where <br>we need to check if 
-all of it is compliant with the best practicies and compliance rules that <br> 
-we assign to ourselfs as perfectionists.<br><br>
-So i thinked, <br> 
+The problem is, we have a codebase (usually inherited) where <br>we need to check if 
+all of it is compliant with the best practices and compliance rules that <br> 
+we assign to ourselves as perfectionists.<br><br>
+So I thought, <br> 
 what if a CLI tool can guide me in that repetitive task?<br><br>
-so that are some concept that are still self-organizing in a structure in my mind:
-- Inside every folder there going to be a review chunk for an amount of a metrics ( tot-chars / nfiles);
-- Initially I may do that by #TODO of Intellij IDEs and Github Actions for Issue creation 
-- After i can implement myself a good Console Interface for Guide me through the process of 
+so that are some concepts that are still self-organizing in a structure in my mind:
+- Inside every folder there going to be a review chunk for some metrics ( tot-chars / nfiles);
+- Initially, I may do that by #TODO of Intellij IDEs and Github Actions for Issue creation 
+- After I can implement a good Console Interface to Guide me through the process of 
     - Write inside ReviewChunks files some Rules Compliance Assessment Statements 
     - Append to files Standardized TODOs or write custom ones by CLI 
     - Reactivate Time by Time Review Task through a settable maintenance scheduling strategy.
