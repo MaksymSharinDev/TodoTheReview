@@ -1,6 +1,6 @@
 # review-todos
 
-####[ Work in progrss ]
+#### ! Work in progrss !
 
 A node.js CLI tool utility made for be a  part of a review process tool-chain
 
@@ -8,7 +8,7 @@ Last Progress ( FolderPaths, files and their weights metrics extraction)
 ![](./docs/last-progress.gif)
 
 
-##Overview
+## Overview
 The problem is the we have in hereditance usually a codebase where <br>we need to check if 
 all of it is compliant with the best practicies and compliance rules that <br> 
 we assign to ourselfs as perfectionists.<br><br>
@@ -21,7 +21,7 @@ so that are some concept that are still self-organizing in a structure in my min
     - Write inside ReviewChunks files some Rules Compliance Assessment Statements 
     - Append to files Standardized TODOs or write custom ones by CLI 
     - Reactivate Time by Time Review Task through a settable maintenance scheduling strategy.
-##Roadmap
+## Roadmap
 
 - [x]   Getting the targets folders for folder-name_ChunkN.review files.
 - [x]   Find and stick to files indicative data (chars x file) about effort weights
