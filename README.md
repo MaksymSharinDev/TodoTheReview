@@ -9,7 +9,7 @@ Last Progress ( FolderPaths, files and their weights metrics extraction)
 
 
 ## Overview
-The problem is the we have in hereditance usually a codebase where <br>we need to check if 
+The problem is that we have is a codebase (usually in in hereditance) where <br>we need to check if 
 all of it is compliant with the best practicies and compliance rules that <br> 
 we assign to ourselfs as perfectionists.<br><br>
 So i thinked, <br> 
